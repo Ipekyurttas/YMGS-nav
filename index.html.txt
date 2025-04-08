@@ -1,0 +1,12 @@
+<html>
+<head>
+
+</head>
+<body>
+
+<p>İpek Nur Yurttaş</p>
+<p>02220224025</p>
+<p>Bu bir sınav sayfasıdır</p>
+
+</body>
+</html>
